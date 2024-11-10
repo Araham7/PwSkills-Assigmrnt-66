@@ -1,6 +1,6 @@
-# (A). Install the source code from the github :
+# (A). To downloading source code from the github :
 ```bash
-
+git clone git@github.com:Araham7/PwSkills-Assigment-66.git
 ```
 
 # (B). Install the required packages :
